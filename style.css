@@ -1,0 +1,13 @@
+body{background-color: dimgray; color: ghostwhite;}
+.kep {
+    height: 100px;
+    float: left;
+    box-shadow: 5px 5px;
+    margin: 10px; color: mediumblue;
+    }
+.balkep {height: 100px;}
+h1 {text-align: center;}
+.jobbkep {height: 300px; float: right;}
+.kep2 { position: absolute;}
+.fejsor {text-align: center; background-color: mediumblue;}
+.forras {text-align: center;}
